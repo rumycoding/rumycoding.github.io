@@ -8,7 +8,7 @@ subtitle: |
   この長い長い旅の 
   その意味を 
   君に届けたい 
-description: 'A Little Step Beyond'
+description: 'A Small Step Beyond'
 keywords:
 author: Rumy
 language: zh-CN
@@ -16,7 +16,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://rumycoding.github.io/project
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -105,4 +105,6 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repository: https://github.com/rumycoding/rumycoding.github.io.git
+  branch: main
