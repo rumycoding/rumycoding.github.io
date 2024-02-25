@@ -11,7 +11,7 @@ categories:
 {% note %}
 先放上思维导图：
 
-[思维导图](html\games101\games101.html) (<a href="html\games101\games101.mm.md" download>源md下载 </a>)
+[思维导图](html/games101/games101.html) (<a href="html/games101/games101.mm.md" download>源md下载 </a>)
 
 *备注：思维导图由markmap生成，源md文件下载后可以直接复制到[Try markmap](https://markmap.js.org/repl)中进行修改使用*
 {% endnote %}
