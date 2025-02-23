@@ -8,10 +8,7 @@ tags:
 categories:
 - programming language
 ---
-
 最近看了[Crafting Interpreters](https://www.craftinginterpreters.com/) 这本书, 准备记录一下其中一个challenge的实现过程。是[challenge 3](https://www.craftinginterpreters.com/superclasses.html#challenges)，关于在clox中实现BETA。
-
-# Implementing BETA Semantics in CLox
 
 ## Overview
 
