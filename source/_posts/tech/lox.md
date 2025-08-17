@@ -12,7 +12,7 @@ categories:
 
 ## Overview
 
-In BETA semantics, method calls start at the top of the class hierarchy and worzk downwards. A superclass method takes precedence over a subclass method. The `inner` keyword is introduced to allow superclass methods to call the overridden method in the subclass. An example looks like this:
+In BETA semantics, method calls start at the top of the class hierarchy and walks downwards. A superclass method takes precedence over a subclass method. The `inner` keyword is introduced to allow superclass methods to call the overridden method in the subclass. An example looks like this:
 
 ```java
 class Doughnut {
